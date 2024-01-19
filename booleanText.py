@@ -18,8 +18,9 @@ print(False or True) # True
 print(False or False) # False
 
 # not 연산
-print(not True)
-print(not False)
+print(not True) # False
+print(not False) # True
 
-print(not not True)
-print(not not False)
+print(not not True) # True
+print(not not False) # False
+
