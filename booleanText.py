@@ -17,5 +17,9 @@ print(True or False) # True
 print(False or True) # True
 print(False or False) # False
 
+# not 연산
+print(not True)
+print(not False)
+
 print(not not True)
 print(not not False)
