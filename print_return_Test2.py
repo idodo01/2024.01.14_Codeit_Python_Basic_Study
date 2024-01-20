@@ -21,6 +21,6 @@ print(third())
 
 # 코드잇    -   print(first())의 first()리턴값 출력됨
 # codeit    -   second()의 print(message)가 출력됨
-# None      -   print(third())의 third()의 print(message) 출력됨
+# None1      -   print(third())의 third()의 print(message) 출력됨
 # None      -   print(third())의 third()가 리턴값이 없어서 출력됨 
         
