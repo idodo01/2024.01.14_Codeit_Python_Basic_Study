@@ -11,6 +11,10 @@ while num < 1000 :
         sum += num
     if num % 6 == 0 :
         sum -= num
+
+    # OR 을 사용한 코드
+    # if num % 2 == 0 or num % 3 == 0:
+    #    sum += num
         
     num += 1
     
